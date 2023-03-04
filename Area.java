@@ -11,7 +11,7 @@ public class Area {
 
 
  void setData()
- {
+    {
 	 Scanner sc = new Scanner(System.in);
 	 
 	 System.out.println("Enter no of Family");
@@ -30,9 +30,8 @@ public class Area {
 	 no_of_ladies = Integer.parseInt(sc.nextLine());
 	 
 	 System.out.println("Enter Family name");
-	 family_name = sc.nextLine();
-	 
- }
+	 family_name = sc.nextLine();	 
+  }
  
  void getData()
  {
