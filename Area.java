@@ -39,13 +39,11 @@ public class Area {
  }
  public static void main(String[] args) {
 		
-		Area h1 = new Area();
+	Area h1 = new Area();
 		
-		h1.setData();
-		
-		h1.getData();
+	h1.setData();
+	h1.getData();
 
 	}
-
-}
+    }
 
